@@ -59,7 +59,3 @@ MIT License
 ## 作成者
 
 [@inhayatom](https://github.com/inhayatom)
-
----
-
-💡 **サービス提供**: このシステムのカスタマイズ・導入支援を[ココナラ](ココナラリンク)で提供しています。
